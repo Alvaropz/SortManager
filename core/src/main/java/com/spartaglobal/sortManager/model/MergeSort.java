@@ -1,19 +1,31 @@
-package com.spartaglobal.sortManager;
+package com.spartaglobal.sortManager.model;
 
-public class MergeSort extends Sort{
-
-    public MergeSort(int[] arrayInts, int arrayIntsLength) {
-        super(arrayInts, arrayIntsLength);
-    }
+public class MergeSort implements Sort{
 
     // Main logic provided by https://www.baeldung.com/java-merge-sort
     @Override
-    public int[] sortArray() {
-        this.mergeSort(arrayInts, arrayIntsLength);
-        return arrayInts;
+    public int[] sort(int[] arr) {
+        if (arr.length < 2) {
+            return arr;
+        }
+        int mid = arr.length / 2;
+        int[] l = new int[mid];
+        int[] r = new int[arr.length - mid];
+
+        for (int i = 0; i < mid; i++) {
+            l[i] = arr[i];
+        }
+        for (int i = mid; i < arr.length; i++) {
+            r[i - mid] = arr[i];
+        }
+        sort(l, mid);
+        sort(r, arr.length - mid);
+
+        merge(arr, l, r, mid, arr.length - mid);
+        return arr;
     }
 
-    public static void mergeSort(int[] a, int n) {
+    public void sort(int[] arr, int n) {
         if (n < 2) {
             return;
         }
@@ -22,15 +34,15 @@ public class MergeSort extends Sort{
         int[] r = new int[n - mid];
 
         for (int i = 0; i < mid; i++) {
-            l[i] = a[i];
+            l[i] = arr[i];
         }
         for (int i = mid; i < n; i++) {
-            r[i - mid] = a[i];
+            r[i - mid] = arr[i];
         }
-        mergeSort(l, mid);
-        mergeSort(r, n - mid);
+        sort(l, mid);
+        sort(r, n - mid);
 
-        merge(a, l, r, mid, n - mid);
+        merge(arr, l, r, mid, n - mid);
     }
 
     public static void merge(
