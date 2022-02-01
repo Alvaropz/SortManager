@@ -10,17 +10,15 @@
 This project will use the Bubble and Merge Sort logic to sort an array of 40 random integers. This array can contain duplicates.
 1. Phase One:
    * Write a program that will take an array of `ints` and sort it using a **bubble** sort algorithm and then a **merge** sort algorithm.
-   * Include **JUnit** tests for this and all subsequent phases.
+   * Include **JUnit** tests for this and all subsequent phases. Code passing tests in phase 1? &#9745;
 2. Phase Two:
-   * Work in progress...
+   * Project updated following the MVC design pattern. Code passing tests in phase 2? &#9745;
 3. Phase Three:
    * Work in progress...
 4. Phase Four:
    * Work in progress...
 6. Phase Five:
    * Work in progress...
-
-Code passing tests? &#9745;
 
 ## Technologies:
 
