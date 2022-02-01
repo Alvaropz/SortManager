@@ -31,7 +31,7 @@ Project is created with:
 * GitHub Desktop
 * GitHub
 
-## Programs:
+## Programs/Libraries/Frameworks:
 * [Intellij](https://www.jetbrains.com/idea/download/#section=windows)
 * [junit-jupiter:5.8.2](https://junit.org/junit5/docs/current/user-guide/)
 * [GitHub Desktop](https://desktop.github.com)
