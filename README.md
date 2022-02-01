@@ -32,6 +32,3 @@ Project is created with:
 * Java for IntelliJ
 
 ## Setup:
-
-* Git: [Git - Installation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-* Visual Studio Code: [Visual Studio Code](https://code.visualstudio.com)
