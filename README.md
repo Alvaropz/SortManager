@@ -26,9 +26,12 @@ Code passing tests? &#9745;
 
 Project is created with:
 * IntelliJ IDEA 2021.3.1
-* GitHub Desktop
-* GitHub
 * junit-jupiter:5.8.2
 * Java for IntelliJ
+* GitHub Desktop
+* GitHub
 
-## Setup:
+## Programs:
+* [Intellij](https://www.jetbrains.com/idea/download/#section=windows)
+* [junit-jupiter:5.8.2](https://junit.org/junit5/docs/current/user-guide/)
+* [GitHub Desktop](https://desktop.github.com)
