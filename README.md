@@ -20,7 +20,7 @@ This project will use the Bubble and Merge Sort logic to sort an array of 40 ran
 6. Phase Five:
    * In progress...
 
-Code passing tests? &#x2611;
+Code passing tests? &#9745;
 
 ## Technologies:
 
