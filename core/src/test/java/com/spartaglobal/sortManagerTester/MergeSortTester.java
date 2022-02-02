@@ -2,6 +2,7 @@ package com.spartaglobal.sortManagerTester;
 
 import com.spartaglobal.sortManager.controller.SortController;
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
