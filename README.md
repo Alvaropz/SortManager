@@ -3,6 +3,7 @@
 ## Table of Contents:
 
 * [General Info](#general-info)
+* [Test Coverage](#test-coverage)
 * [Technologies](#techonologies)
 * [Setup](#setup)
 
@@ -14,11 +15,14 @@ This project will use the Bubble and Merge Sort logic to sort an array of 40 ran
 2. Phase Two:
    * Project updated following the MVC design pattern. Code passing tests in phase 2? &#9745;
 3. Phase Three:
-   * Work in progress...
+   * Project update to track and logs classes and methods.
 4. Phase Four:
    * Work in progress...
 6. Phase Five:
    * Work in progress...
+
+## Test Coverage:
+![CoverageReport](https://user-images.githubusercontent.com/63067669/152229461-dd01c24c-d1de-41c2-8d32-2ad7e7aac033.png)
 
 ## Technologies:
 
@@ -33,3 +37,4 @@ Project is created with:
 * [Intellij](https://www.jetbrains.com/idea/download/#section=windows)
 * [junit-jupiter:5.8.2](https://junit.org/junit5/docs/current/user-guide/)
 * [GitHub Desktop](https://desktop.github.com)
+
