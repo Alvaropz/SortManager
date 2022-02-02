@@ -3,6 +3,7 @@
 ## Table of Contents:
 
 * [General Info](#general-info)
+* [Test Coverage](#test-coverage)
 * [Technologies](#techonologies)
 * [Setup](#setup)
 
@@ -19,6 +20,9 @@ This project will use the Bubble and Merge Sort logic to sort an array of 40 ran
    * Work in progress...
 6. Phase Five:
    * Work in progress...
+
+## Test Coverage:
+![CoverageReport](https://user-images.githubusercontent.com/63067669/152229461-dd01c24c-d1de-41c2-8d32-2ad7e7aac033.png)
 
 ## Technologies:
 
