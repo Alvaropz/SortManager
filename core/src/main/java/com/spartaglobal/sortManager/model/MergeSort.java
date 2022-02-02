@@ -25,9 +25,9 @@ public class MergeSort implements Sort{
         return arr;
     }
 
-    public void sort(int[] arr, int n) {
+    public int[] sort(int[] arr, int n) {
         if (n < 2) {
-            return;
+            return arr;
         }
         int mid = n / 2;
         int[] l = new int[mid];
@@ -43,6 +43,7 @@ public class MergeSort implements Sort{
         sort(r, n - mid);
 
         merge(arr, l, r, mid, n - mid);
+        return arr;
     }
 
     public static void merge(

@@ -1,0 +1,95 @@
+FILE [INFO ] 2022-02-02 16:12:27,067 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 16:12:31,952 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 16:12:31,952 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-02 16:12:31,953 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-02 16:17:08,648 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 18:52:10,104 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 18:52:17,482 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 18:52:17,490 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-02 18:52:17,490 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-02 18:52:17,490 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-02 18:52:53,248 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 18:52:57,533 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 18:52:57,533 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-02 18:57:37,496 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 18:58:49,536 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 18:58:52,387 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 18:58:52,387 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-02 18:58:52,387 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-02 18:58:52,387 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-02 19:11:23,438 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:11:23,458 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:11:23,458 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-02 19:11:54,680 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:11:57,625 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:11:57,625 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-02 19:11:57,625 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-02 19:11:57,625 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-02 19:12:02,477 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:12:06,206 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:12:06,206 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-02 19:12:06,206 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-02 19:12:06,206 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-02 19:16:07,411 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:16:19,950 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:16:19,950 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-02 19:16:19,950 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-02 19:16:19,954 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-02 19:16:19,954 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-02 19:19:36,367 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:19:38,822 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:19:38,822 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-02 19:19:38,822 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-02 19:19:38,822 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-02 19:19:38,822 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-02 19:19:56,421 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:19:59,005 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:19:59,005 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-02 19:19:59,005 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-02 19:19:59,009 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-02 19:19:59,009 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-02 19:52:51,474 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:53:14,008 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:53:29,528 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:54:33,846 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:54:36,397 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:54:36,397 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-02 19:54:36,401 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-02 19:54:36,401 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-02 19:54:36,405 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-02 19:56:30,742 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:56:33,704 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:56:33,704 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-02 19:56:33,708 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-02 19:56:33,712 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-02 19:56:33,712 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-02 19:56:33,712 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:56:35,936 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:56:35,936 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-02 19:56:35,936 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-02 19:56:35,936 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-02 19:56:35,936 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-02 19:58:11,094 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:58:13,892 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:58:13,892 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-02 19:58:13,893 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-02 19:58:13,894 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-02 19:58:13,894 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-02 19:58:13,895 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:58:14,984 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:58:14,984 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-02 19:58:14,985 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-02 19:58:14,986 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-02 19:58:14,986 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-02 19:59:03,164 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:59:05,898 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:59:05,898 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-02 19:59:05,899 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-02 19:59:05,901 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-02 19:59:05,901 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-02 19:59:05,901 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:59:06,431 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-02 19:59:06,431 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-02 19:59:06,432 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-02 19:59:06,435 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-02 19:59:06,435 main Viewer Logger - Display Results
