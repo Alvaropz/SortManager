@@ -15,11 +15,15 @@ This project will use the Bubble and Merge Sort logic to sort an array of 40 ran
 2. Phase Two:
    * Project updated following the MVC design pattern. Code passing tests in phase 2? &#9745;
 3. Phase Three:
-   * Work in progress...
+   * Project update to track and log classes and methods.
 4. Phase Four:
    * Work in progress...
 6. Phase Five:
-   * Work in progress...
+   * Timing information added. This allows to compare algorithms performance.
+
+
+## Test Coverage:
+![CoverageReport](https://user-images.githubusercontent.com/63067669/152332459-e5a0f88c-25ed-408b-981d-550638a7d530.png)
 
 ## Test Coverage:
 ![CoverageReport](https://user-images.githubusercontent.com/63067669/152229461-dd01c24c-d1de-41c2-8d32-2ad7e7aac033.png)
@@ -29,6 +33,7 @@ This project will use the Bubble and Merge Sort logic to sort an array of 40 ran
 Project is created with:
 * IntelliJ IDEA 2021.3.1
 * junit-jupiter:5.8.2
+* apache.logging.log4j:2.17.1
 * Java for IntelliJ
 * GitHub Desktop
 * GitHub
@@ -37,3 +42,4 @@ Project is created with:
 * [Intellij](https://www.jetbrains.com/idea/download/#section=windows)
 * [junit-jupiter:5.8.2](https://junit.org/junit5/docs/current/user-guide/)
 * [GitHub Desktop](https://desktop.github.com)
+
