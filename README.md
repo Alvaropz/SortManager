@@ -15,7 +15,7 @@ This project will use the Bubble and Merge Sort logic to sort an array of 40 ran
 2. Phase Two:
    * Project updated following the MVC design pattern. Code passing tests in phase 2? &#9745;
 3. Phase Three:
-   * Project update to track and logs classes and methods.
+   * Project update to track and log classes and methods.
 4. Phase Four:
    * Work in progress...
 6. Phase Five:
