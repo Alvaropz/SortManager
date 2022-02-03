@@ -30,6 +30,7 @@ This project will use the Bubble and Merge Sort logic to sort an array of 40 ran
 Project is created with:
 * IntelliJ IDEA 2021.3.1
 * junit-jupiter:5.8.2
+* org.apache.logging.log4j:2.17.1
 * Java for IntelliJ
 * GitHub Desktop
 * GitHub
