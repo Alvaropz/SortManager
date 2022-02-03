@@ -19,7 +19,8 @@ This project will use the Bubble and Merge Sort logic to sort an array of 40 ran
 4. Phase Four:
    * Work in progress...
 6. Phase Five:
-   * Work in progress...
+   * Timing information added. This allows to compare algorithms performance.
+
 
 ## Test Coverage:
 ![CoverageReport](https://user-images.githubusercontent.com/63067669/152332459-e5a0f88c-25ed-408b-981d-550638a7d530.png)
