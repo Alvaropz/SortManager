@@ -14,9 +14,12 @@ public class SortView {
         Scanner scanner = new Scanner(System.in);
         String desiredSortType = "";
 
-        while (!Arrays.asList(new String[]{"b", "m"}).contains(desiredSortType)) {
-            System.out.print("Please enter your desired sort (b) for Bubble and (m) for Merge: ");
+        while (!Arrays.asList(new String[]{"b", "m", "t"}).contains(desiredSortType)) {
+            System.out.print("Please enter your desired sort (b) for Bubble, (m) for Merge and (t) for Binary Search Tree. Type 'exit' to stop the program: ");
             desiredSortType = scanner.next().toLowerCase();
+            if (desiredSortType.equals("exit")) {
+                System.exit(0);
+            }
         }
         return desiredSortType;
     }

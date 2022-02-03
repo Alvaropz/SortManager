@@ -45,7 +45,6 @@ public class BubbleSortTester {
         String expected = Arrays.toString(result);
         String actual = Arrays.toString(inputArrayCopy);
         Assertions.assertEquals(expected, actual);
-
     }
 
     @Test
@@ -58,7 +57,6 @@ public class BubbleSortTester {
         String expected = Arrays.toString(result);
         String actual = Arrays.toString(inputArrayCopy);
         Assertions.assertEquals(expected, actual);
-
     }
 
 

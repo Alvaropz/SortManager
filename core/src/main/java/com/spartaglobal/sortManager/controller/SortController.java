@@ -36,9 +36,12 @@ public class SortController {
             sf = new BubbleFactory();
         } else if ("m".equals(sortType)) {
             sf = new MergeFactory();
+        } else if ("t".equals(sortType)) {
+            sf = new BSTFactory();
         } else {
             logger.error("Invalid input - SortFactory Object will be null");
             sf = null;
+            System.exit(1);
         }
 
         return sf.getInstance();

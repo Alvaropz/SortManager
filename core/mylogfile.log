@@ -1,0 +1,84 @@
+FILE [INFO ] 2022-02-03 10:20:59,314 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 10:20:59,325 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 10:20:59,326 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-03 10:20:59,633 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 10:20:59,634 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 10:20:59,634 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-03 10:28:06,425 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 10:28:06,432 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 10:28:06,435 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-03 10:28:20,366 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 10:28:20,375 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 10:28:20,378 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-03 10:28:20,426 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 10:28:20,427 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 10:28:20,427 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-03 10:28:20,742 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 10:28:20,742 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 10:28:20,743 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-03 10:28:34,386 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 10:28:34,394 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 10:28:34,395 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-03 10:28:34,487 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 10:28:34,488 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 10:28:34,488 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-03 10:29:00,953 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 10:29:00,954 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 10:29:00,954 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-03 10:29:54,564 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 10:29:54,576 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 10:29:54,578 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-03 10:29:54,624 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 10:29:54,625 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 10:29:54,625 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-03 10:29:54,632 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 10:29:54,633 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 10:29:54,633 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-03 10:30:09,688 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 10:30:09,696 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 10:30:09,697 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-03 10:30:09,738 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 10:30:09,738 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 10:30:09,738 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-03 10:30:09,743 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 10:30:09,743 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 10:30:09,743 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-03 20:42:14,814 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 20:42:14,818 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 20:42:14,819 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-03 20:45:48,427 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 20:45:48,431 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 20:45:48,432 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-03 20:46:28,027 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 20:46:28,032 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 20:46:28,033 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-03 20:46:45,016 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 20:46:45,019 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 20:46:45,021 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-03 20:47:22,796 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 20:47:22,800 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 20:47:22,801 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-03 20:50:31,228 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 20:50:31,232 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 20:50:31,233 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-03 20:51:16,803 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 20:51:16,807 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 20:51:16,808 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-03 20:53:26,584 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 20:53:26,588 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 20:53:26,589 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-03 20:53:50,387 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 20:53:50,391 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 20:53:50,392 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-03 20:55:05,304 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 20:55:05,308 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 20:55:05,309 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-03 20:55:45,078 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 20:55:45,081 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 20:55:45,082 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-03 21:00:11,581 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 21:00:11,585 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 21:00:11,586 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-03 21:04:02,191 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-03 21:04:02,195 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-03 21:04:02,197 main BST Factory - BST Sort - getInstance

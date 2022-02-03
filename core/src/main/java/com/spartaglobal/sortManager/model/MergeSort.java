@@ -1,10 +1,19 @@
 package com.spartaglobal.sortManager.model;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import java.util.concurrent.TimeUnit;
+
 public class MergeSort implements Sort{
+
+    private static Logger logger = LogManager.getLogger("Merge Sort Method");
 
     // Main logic provided by https://www.baeldung.com/java-merge-sort
     @Override
     public int[] sort(int[] arr) {
+
+        long start = System.nanoTime();
+
         if (arr.length < 2) {
             return arr;
         }
@@ -22,6 +31,8 @@ public class MergeSort implements Sort{
         sort(r, arr.length - mid);
 
         merge(arr, l, r, mid, arr.length - mid);
+        long end = System.nanoTime();
+        logger.info("It took a total of " + (TimeUnit.MICROSECONDS.convert(end-start, TimeUnit.NANOSECONDS)) + " milliseconds to run the merge sort method");
         return arr;
     }
 
