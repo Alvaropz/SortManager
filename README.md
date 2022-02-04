@@ -4,6 +4,7 @@
 
 * [General Info](#general-info)
 * [Test Coverage](#test-coverage)
+* [Use](#use)
 * [Technologies](#techonologies)
 * [Setup](#setup)
 
@@ -21,9 +22,19 @@ This project will use the Bubble and Merge Sort logic to sort an array of 40 ran
 6. Phase Five:
    * Timing information added. This allows to compare algorithms performance.
 
+## Use:
+1. The user will be asked to choose the sorting method desired.
+   ![firstStep](https://user-images.githubusercontent.com/63067669/152597459-7dd046e4-7a7d-4177-b871-862eca2ad3dc.png)
+
+2. Then, the user will have to choose the length of the array.
+   ![secondStep](https://user-images.githubusercontent.com/63067669/152597473-9b51ad52-f45e-4642-87c8-b736d4e6ed42.png)
+
+3. Finally, the array will be populated with random numbers and the algorithms will sort it.
+   ![result](https://user-images.githubusercontent.com/63067669/152597480-a2dde099-cc3b-4c8d-ad74-cf6a464270af.png)
 
 ## Test Coverage:
-![CoverageReport](![CoverageReport](https://user-images.githubusercontent.com/63067669/152596124-a3e3e086-2cf8-4e3e-8d7c-2031b30c7215.png))
+
+![CoverageReport](https://user-images.githubusercontent.com/63067669/152597668-bec3de53-f6c4-4ce3-855d-e53c14e7dc17.png)
 
 ## Technologies:
 
