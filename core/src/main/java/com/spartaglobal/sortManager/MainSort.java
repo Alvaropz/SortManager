@@ -7,22 +7,25 @@ public class MainSort {
     public static void main(String[] args) {
         DisplayManager view = new DisplayManager();
         String desiredType = view.getDesiredType();
+        int length = view.getArrayLength();
         SortManager controller = new SortManager();
-        int[] result = controller.sortArray(desiredType);
+        int[] result = controller.sortArray(desiredType, length);
         view.displayResults(result);
 
         desiredType = view.getDesiredType();
         controller = new SortManager();
-        result = controller.sortArray(desiredType);
+        length = view.getArrayLength();
+        result = controller.sortArray(desiredType, length);
         view.displayResults(result);
 
         desiredType = view.getDesiredType();
         controller = new SortManager();
-        result = controller.sortArray(desiredType);
+        length = view.getArrayLength();
+        result = controller.sortArray(desiredType, length);
         view.displayResults(result);
 
         controller = new SortManager();
-        result = controller.sortArray(null);
+        result = controller.sortArray(null, 0);
         view.displayResults(result);
     }
 }

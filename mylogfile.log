@@ -109,3 +109,87 @@ FILE [INFO ] 2022-02-04 16:07:21,769 main Viewer Logger - Display Results
 FILE [INFO ] 2022-02-04 16:07:21,769 main Controller Logger - Desired sorted method input call
 FILE [INFO ] 2022-02-04 16:07:21,770 main Controller Logger - Call getSort Reference
 FILE [ERROR] 2022-02-04 16:07:21,770 main Controller Logger - Invalid input - SortFactory Object will be null
+FILE [INFO ] 2022-02-04 18:27:15,028 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 18:37:49,102 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 18:37:51,603 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 18:37:51,603 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 18:37:51,604 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-04 18:37:51,606 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 18:37:51,611 main Bubble Sort Method - It took a total of 39 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 18:37:51,611 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 18:37:51,612 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 18:37:52,544 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 18:37:52,544 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 18:37:52,545 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-04 18:37:52,547 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 18:37:52,548 main Merge Sort Method - It took a total of 37 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 18:37:52,548 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 18:37:52,548 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 18:37:53,862 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 18:37:53,862 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 18:37:53,863 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-04 18:37:53,863 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 18:37:53,864 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 18:37:53,865 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 18:37:53,865 main Controller Logger - Call getSort Reference
+FILE [ERROR] 2022-02-04 18:37:53,865 main Controller Logger - Invalid input - SortFactory Object will be null
+FILE [INFO ] 2022-02-04 18:42:02,383 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 18:42:04,589 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 18:42:04,589 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 18:42:04,590 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-04 18:42:04,591 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 18:42:04,594 main Bubble Sort Method - It took a total of 33 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 18:42:04,594 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 18:42:04,595 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 18:42:05,144 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 18:42:05,144 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 18:42:05,144 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-04 18:42:05,145 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 18:42:05,146 main Merge Sort Method - It took a total of 44 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 18:42:05,146 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 18:42:05,146 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 18:42:06,960 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 18:42:06,960 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 18:42:06,960 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-04 18:42:06,966 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 18:42:06,973 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 18:42:06,973 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 18:42:06,973 main Controller Logger - Call getSort Reference
+FILE [ERROR] 2022-02-04 18:42:06,974 main Controller Logger - Invalid input - SortFactory Object will be null
+FILE [INFO ] 2022-02-04 18:55:04,018 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 18:56:01,751 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 18:56:03,245 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 18:56:03,245 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 18:56:03,246 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-04 18:56:03,252 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 18:56:03,269 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 18:56:03,269 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 19:27:50,305 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 19:27:53,863 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-04 19:27:56,754 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 19:27:56,754 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 19:27:56,755 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-04 19:27:56,760 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 19:27:56,767 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 19:27:56,767 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 19:28:02,656 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-04 19:28:06,571 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 19:28:06,572 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 19:28:06,572 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-04 19:28:06,581 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 19:28:06,654 main Merge Sort Method - It took a total of 68611 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 19:28:06,654 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 19:28:06,680 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 19:28:15,343 main Viewer Logger - Array length method input call
+FILE [ERROR] 2022-02-04 19:28:17,758 main Viewer Logger - java.lang.NumberFormatException: For input string: "y"
+FILE [ERROR] 2022-02-04 19:28:19,770 main Viewer Logger - java.lang.NumberFormatException: For input string: "p"
+FILE [INFO ] 2022-02-04 19:28:26,287 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 19:28:26,287 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 19:28:26,288 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-04 19:28:53,659 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 19:29:24,342 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 19:29:26,246 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-04 19:29:35,789 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 19:29:35,790 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 19:29:35,790 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-04 19:29:58,953 main Controller Logger - Random integers' array created successfully

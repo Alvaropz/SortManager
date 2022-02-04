@@ -61,7 +61,6 @@ public class BSTTester {
     @Test
     @DisplayName("This checks if an array is sorted after creating a Binary Tree from a unordered array of elements")
     public void testBSTSort(){
-
         int[] arrayInput = createArrayUnique(40);
         int[] inputArrayCopy = copyArray(arrayInput);
         int[] result = controller.sortArray("t", arrayInput);
@@ -76,7 +75,6 @@ public class BSTTester {
     public void testBSTEmptyArray(){
         int[] inputArray = new int[]{};
         int[] inputArrayCopy = copyArray(inputArray);
-
         int[] result = controller.sortArray("t", inputArray);
         String expected = Arrays.toString(result);
         String actual = Arrays.toString(inputArrayCopy);
@@ -88,7 +86,6 @@ public class BSTTester {
     public void tesBSTSameValue(){
         int[] inputArray = createArrayUnique(new int[]{0, 0, 0, 0, 0});
         int[] inputArrayCopy = copyArray(inputArray);
-
         int[] result = controller.sortArray("t", inputArray);
         String expected = Arrays.toString(result);
         String actual = Arrays.toString(inputArrayCopy);

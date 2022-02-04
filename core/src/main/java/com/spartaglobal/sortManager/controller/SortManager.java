@@ -7,12 +7,12 @@ import org.apache.logging.log4j.Logger;
 public class SortManager {
     private static Logger logger = LogManager.getLogger("Controller Logger");
 
-    public int[] sortArray(String desiredSortType) {
+    public int[] sortArray(String desiredSortType, int length) {
         logger.info("Desired sorted method input call");
 
         Sort s = getSort(desiredSortType);
 
-        int[] arr = new int[40];
+        int[] arr = new int[length];
         for (int i = 0; i < arr.length; i++) {
             arr[i] = (int)Math.floor((Math.random()*100)+1);
         }

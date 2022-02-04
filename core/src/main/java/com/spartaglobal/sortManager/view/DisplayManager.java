@@ -24,6 +24,26 @@ public class DisplayManager {
         return desiredSortType;
     }
 
+    public int getArrayLength() {
+        logger.info("Array length method input call");
+        Scanner scanner = new Scanner(System.in);
+        String input = "";
+        int length = 0;
+        while (input instanceof String) {
+            System.out.print("Please, choose the length of your array: ");
+            input = scanner.next();
+            try {
+                length = Integer.parseInt(input);
+                if (length >= 0) {
+                    break;
+                }
+            }  catch (NumberFormatException e){
+                logger.warn(e);
+            }
+        }
+        return length;
+    }
+
     public void displayResults(int[] result) {
         logger.info("Display Results");
         System.out.print("Result: ");
