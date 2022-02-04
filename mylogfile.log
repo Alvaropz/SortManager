@@ -217,3 +217,20 @@ FILE [INFO ] 2022-02-04 19:36:19,535 main Merge Factory - Merge Sort - getInstan
 FILE [INFO ] 2022-02-04 19:36:19,536 main Controller Logger - Random integers' array created successfully
 FILE [INFO ] 2022-02-04 19:36:19,536 main Viewer Logger - Display Results
 FILE [INFO ] 2022-02-04 20:04:36,047 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 20:12:50,357 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 20:13:33,867 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-04 20:14:17,314 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 20:14:17,314 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 20:14:17,314 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-04 20:14:17,317 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 20:14:17,322 main Merge Sort Method - It took a total of 2484 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 20:14:17,322 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 20:14:17,325 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 20:14:25,061 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-04 20:14:26,978 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 20:14:26,978 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 20:14:26,978 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-04 20:14:26,978 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 20:14:26,979 main Merge Sort Method - It took a total of 29 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 20:14:26,979 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 20:14:26,979 main Viewer Logger - Desired sorted method input call
