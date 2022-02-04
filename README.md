@@ -23,7 +23,7 @@ This project will use the Bubble and Merge Sort logic to sort an array of 40 ran
 
 
 ## Test Coverage:
-![CoverageReport](![CoverageReport](https://user-images.githubusercontent.com/63067669/152596124-a3e3e086-2cf8-4e3e-8d7c-2031b30c7215.png))
+![CoverageReport](![CoverageReport](https://user-images.githubusercontent.com/63067669/152596379-86730f30-e954-4698-89eb-9924b6158718.png))
 
 ## Technologies:
 
