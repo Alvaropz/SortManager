@@ -193,3 +193,27 @@ FILE [INFO ] 2022-02-04 19:29:35,789 main Controller Logger - Desired sorted met
 FILE [INFO ] 2022-02-04 19:29:35,790 main Controller Logger - Call getSort Reference
 FILE [INFO ] 2022-02-04 19:29:35,790 main Merge Factory - Merge Sort - getInstance
 FILE [INFO ] 2022-02-04 19:29:58,953 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 19:35:27,546 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 19:35:29,468 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-04 19:35:34,148 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 19:35:34,148 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 19:35:34,149 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-04 19:35:34,180 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 19:35:34,437 main Merge Sort Method - It took a total of 252620 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 19:35:34,437 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 19:35:54,888 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 19:35:56,635 main Viewer Logger - Array length method input call
+FILE [WARN ] 2022-02-04 19:36:06,255 main Viewer Logger - java.lang.NumberFormatException: For input string: "/"
+FILE [INFO ] 2022-02-04 19:36:11,543 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 19:36:11,543 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 19:36:11,544 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-04 19:36:11,544 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 19:36:11,545 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 19:36:15,617 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 19:36:18,042 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-04 19:36:19,534 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 19:36:19,535 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 19:36:19,535 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-04 19:36:19,536 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 19:36:19,536 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 20:04:36,047 main Viewer Logger - Desired sorted method input call
