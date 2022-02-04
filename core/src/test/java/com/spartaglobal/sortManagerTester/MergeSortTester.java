@@ -1,6 +1,6 @@
 package com.spartaglobal.sortManagerTester;
 
-import com.spartaglobal.sortManager.controller.SortController;
+import com.spartaglobal.sortManager.controller.SortManager;
 import com.spartaglobal.sortManager.model.MergeSort;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.*;
@@ -9,10 +9,10 @@ import java.util.Arrays;
 
 public class MergeSortTester {
 
-    private SortController controller;
+    private SortManager controller;
     @BeforeEach
     public void setUp() {
-        controller = new SortController();
+        controller = new SortManager();
     }
 
     public int[] copyArray(int[] originalArray) {

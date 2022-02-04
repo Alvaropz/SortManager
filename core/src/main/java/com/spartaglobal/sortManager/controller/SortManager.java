@@ -4,7 +4,7 @@ import com.spartaglobal.sortManager.model.*;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class SortController {
+public class SortManager {
     private static Logger logger = LogManager.getLogger("Controller Logger");
 
     public int[] sortArray(String desiredSortType) {
