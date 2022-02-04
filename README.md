@@ -15,18 +15,15 @@ This project will use the Bubble and Merge Sort logic to sort an array of 40 ran
 2. Phase Two:
    * Project updated following the MVC design pattern. Code passing tests in phase 2? &#9745;
 3. Phase Three:
-   * Project update to track and log classes and methods.
+   * Project updated to track and log classes and methods.
 4. Phase Four:
-   * Work in progress...
+   * Integrates a Binary Search Tree class that sorts elements form an unsorted list into the tree. Then, it retrieves an array of that Binary Tree sorted. Code passing tests in phase 4? &#9745;
 6. Phase Five:
    * Timing information added. This allows to compare algorithms performance.
 
 
 ## Test Coverage:
 ![CoverageReport](https://user-images.githubusercontent.com/63067669/152332459-e5a0f88c-25ed-408b-981d-550638a7d530.png)
-
-## Test Coverage:
-![CoverageReport](https://user-images.githubusercontent.com/63067669/152229461-dd01c24c-d1de-41c2-8d32-2ad7e7aac033.png)
 
 ## Technologies:
 

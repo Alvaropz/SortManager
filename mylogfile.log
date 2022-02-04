@@ -16,3 +16,96 @@ FILE [INFO ] 2022-02-04 13:09:05,138 main Viewer Logger - Display Results
 FILE [INFO ] 2022-02-04 13:09:05,139 main Controller Logger - Desired sorted method input call
 FILE [INFO ] 2022-02-04 13:09:05,139 main Controller Logger - Call getSort Reference
 FILE [ERROR] 2022-02-04 13:09:05,139 main Controller Logger - Invalid input - SortFactory Object will be null
+FILE [INFO ] 2022-02-04 15:53:55,082 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 15:53:58,052 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 15:53:58,052 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 15:53:58,053 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-04 15:53:58,054 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 15:53:58,057 main Bubble Sort Method - It took a total of 21 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 15:53:58,058 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 15:53:58,058 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 15:53:59,432 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 15:53:59,432 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 15:53:59,433 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-04 15:53:59,434 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 15:53:59,435 main Merge Sort Method - It took a total of 33 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 15:53:59,435 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 15:53:59,435 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 15:54:00,260 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 15:54:00,260 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 15:54:00,260 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-04 15:54:00,261 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 15:54:00,262 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 15:54:00,262 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 15:54:00,262 main Controller Logger - Call getSort Reference
+FILE [ERROR] 2022-02-04 15:54:00,262 main Controller Logger - Invalid input - SortFactory Object will be null
+FILE [INFO ] 2022-02-04 16:04:42,574 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:04:46,400 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:04:46,400 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 16:04:46,402 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-04 16:04:46,405 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 16:04:46,409 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 16:04:46,409 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:04:47,421 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:04:47,421 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 16:04:47,422 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-04 16:04:47,425 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 16:04:47,436 main Bubble Sort Method - It took a total of 68 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 16:04:47,436 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 16:04:47,437 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:04:50,608 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:04:50,608 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 16:04:50,608 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-04 16:04:50,614 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 16:04:50,614 main Merge Sort Method - It took a total of 58 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 16:04:50,615 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 16:04:50,615 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:04:50,615 main Controller Logger - Call getSort Reference
+FILE [ERROR] 2022-02-04 16:04:50,615 main Controller Logger - Invalid input - SortFactory Object will be null
+FILE [INFO ] 2022-02-04 16:05:15,516 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:05:56,048 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:06:07,681 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:06:07,681 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 16:06:07,683 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-04 16:06:07,687 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 16:06:07,691 main Bubble Sort Method - It took a total of 67 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 16:06:07,692 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 16:06:07,692 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:06:08,383 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:06:08,383 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 16:06:08,384 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-04 16:06:08,389 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 16:06:08,391 main Merge Sort Method - It took a total of 62 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 16:06:08,392 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 16:06:08,392 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:06:10,532 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:06:10,533 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 16:06:10,534 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-04 16:06:10,538 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 16:06:10,544 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 16:06:10,544 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:06:10,544 main Controller Logger - Call getSort Reference
+FILE [ERROR] 2022-02-04 16:06:10,544 main Controller Logger - Invalid input - SortFactory Object will be null
+FILE [INFO ] 2022-02-04 16:07:13,405 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:07:19,425 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:07:19,427 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 16:07:19,428 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-04 16:07:19,430 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 16:07:19,435 main Bubble Sort Method - It took a total of 74 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 16:07:19,435 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 16:07:19,435 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:07:19,983 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:07:19,983 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 16:07:19,984 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-04 16:07:19,989 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 16:07:19,990 main Merge Sort Method - It took a total of 59 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 16:07:19,990 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 16:07:19,990 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:07:21,760 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:07:21,761 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 16:07:21,761 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-04 16:07:21,764 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 16:07:21,769 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 16:07:21,769 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 16:07:21,770 main Controller Logger - Call getSort Reference
+FILE [ERROR] 2022-02-04 16:07:21,770 main Controller Logger - Invalid input - SortFactory Object will be null

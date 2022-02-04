@@ -16,12 +16,13 @@ public class MainSort {
         result = controller.sortArray(desiredType);
         view.displayResults(result);
 
+        desiredType = view.getDesiredType();
+        controller = new SortManager();
+        result = controller.sortArray(desiredType);
+        view.displayResults(result);
+
         controller = new SortManager();
         result = controller.sortArray(null);
         view.displayResults(result);
-
-//        SortController controller = new SortController();
-//        int[] result = controller.sortArray("t");
-//        System.out.println(Arrays.toString(result));
     }
 }
