@@ -1,141 +1,131 @@
-FILE [INFO ] 2022-02-03 10:20:59,314 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 10:20:59,325 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 10:20:59,326 main Bubble Factory - Bubble Sort - getInstance
-FILE [INFO ] 2022-02-03 10:20:59,633 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 10:20:59,634 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 10:20:59,634 main Bubble Factory - Bubble Sort - getInstance
-FILE [INFO ] 2022-02-03 10:28:06,425 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 10:28:06,432 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 10:28:06,435 main Bubble Factory - Bubble Sort - getInstance
-FILE [INFO ] 2022-02-03 10:28:20,366 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 10:28:20,375 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 10:28:20,378 main Bubble Factory - Bubble Sort - getInstance
-FILE [INFO ] 2022-02-03 10:28:20,426 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 10:28:20,427 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 10:28:20,427 main Bubble Factory - Bubble Sort - getInstance
-FILE [INFO ] 2022-02-03 10:28:20,742 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 10:28:20,742 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 10:28:20,743 main Bubble Factory - Bubble Sort - getInstance
-FILE [INFO ] 2022-02-03 10:28:34,386 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 10:28:34,394 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 10:28:34,395 main Bubble Factory - Bubble Sort - getInstance
-FILE [INFO ] 2022-02-03 10:28:34,487 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 10:28:34,488 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 10:28:34,488 main Bubble Factory - Bubble Sort - getInstance
-FILE [INFO ] 2022-02-03 10:29:00,953 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 10:29:00,954 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 10:29:00,954 main Bubble Factory - Bubble Sort - getInstance
-FILE [INFO ] 2022-02-03 10:29:54,564 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 10:29:54,576 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 10:29:54,578 main Bubble Factory - Bubble Sort - getInstance
-FILE [INFO ] 2022-02-03 10:29:54,624 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 10:29:54,625 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 10:29:54,625 main Bubble Factory - Bubble Sort - getInstance
-FILE [INFO ] 2022-02-03 10:29:54,632 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 10:29:54,633 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 10:29:54,633 main Bubble Factory - Bubble Sort - getInstance
-FILE [INFO ] 2022-02-03 10:30:09,688 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 10:30:09,696 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 10:30:09,697 main Bubble Factory - Bubble Sort - getInstance
-FILE [INFO ] 2022-02-03 10:30:09,738 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 10:30:09,738 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 10:30:09,738 main Bubble Factory - Bubble Sort - getInstance
-FILE [INFO ] 2022-02-03 10:30:09,743 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 10:30:09,743 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 10:30:09,743 main Bubble Factory - Bubble Sort - getInstance
-FILE [INFO ] 2022-02-03 20:42:14,814 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 20:42:14,818 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 20:42:14,819 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-03 20:45:48,427 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 20:45:48,431 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 20:45:48,432 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-03 20:46:28,027 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 20:46:28,032 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 20:46:28,033 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-03 20:46:45,016 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 20:46:45,019 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 20:46:45,021 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-03 20:47:22,796 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 20:47:22,800 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 20:47:22,801 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-03 20:50:31,228 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 20:50:31,232 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 20:50:31,233 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-03 20:51:16,803 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 20:51:16,807 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 20:51:16,808 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-03 20:53:26,584 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 20:53:26,588 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 20:53:26,589 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-03 20:53:50,387 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 20:53:50,391 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 20:53:50,392 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-03 20:55:05,304 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 20:55:05,308 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 20:55:05,309 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-03 20:55:45,078 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 20:55:45,081 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 20:55:45,082 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-03 21:00:11,581 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 21:00:11,585 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 21:00:11,586 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-03 21:04:02,191 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-03 21:04:02,195 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-03 21:04:02,197 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-04 13:34:45,558 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-04 13:34:45,572 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-04 13:34:45,574 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-04 14:41:46,506 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-04 14:41:46,515 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-04 14:41:46,518 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-04 15:34:39,866 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-04 15:34:39,871 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-04 15:34:39,872 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-04 15:35:26,506 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-04 15:35:26,510 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-04 15:35:26,511 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-04 15:35:26,535 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-04 15:35:26,535 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-04 15:35:26,536 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-04 15:35:26,549 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-04 15:35:26,549 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-04 15:35:26,550 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-04 15:37:02,055 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-04 15:37:02,059 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-04 15:37:02,060 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-04 15:37:02,082 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-04 15:37:02,082 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-04 15:37:02,082 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-04 15:37:02,094 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-04 15:37:02,095 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-04 15:37:02,095 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-04 15:37:41,231 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-04 15:37:41,236 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-04 15:37:41,237 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-04 15:37:41,262 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-04 15:37:41,263 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-04 15:37:41,263 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-04 15:37:41,280 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-04 15:37:41,280 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-04 15:37:41,280 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-04 15:38:10,736 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-04 15:38:10,740 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-04 15:38:10,741 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-04 15:46:07,574 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-04 15:46:07,578 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-04 15:46:07,579 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-04 15:46:07,601 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-04 15:46:07,601 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-04 15:46:07,601 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-04 15:46:07,605 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-04 15:46:07,605 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-04 15:46:07,605 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-04 18:44:34,489 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-04 18:44:34,493 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-04 18:44:34,495 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-04 18:44:34,525 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-04 18:44:34,525 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-04 18:44:34,526 main BST Factory - BST Sort - getInstance
-FILE [INFO ] 2022-02-04 18:44:34,531 main Controller Logger - Call Sort Array Function
-FILE [INFO ] 2022-02-04 18:44:34,531 main Controller Logger - Call getSort Reference
-FILE [INFO ] 2022-02-04 18:44:34,532 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-05 17:07:07,331 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:07:07,335 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:07:07,335 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-05 17:07:07,339 main Binary Search Tree Method - Binary Tree instance created || Array sorted in the Binary Tree
+FILE [INFO ] 2022-02-05 17:07:07,339 main Binary Search Tree Method - Array created from iterating through the Binary Tree
+FILE [INFO ] 2022-02-05 17:07:07,343 main Binary Search Tree Method - It took a total of 1982 milliseconds to run the brinary search tree sort method
+FILE [INFO ] 2022-02-05 17:07:07,375 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:07:07,375 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:07:07,375 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-05 17:07:07,375 main Binary Search Tree Method - Binary Tree instance created || Array sorted in the Binary Tree
+FILE [INFO ] 2022-02-05 17:07:07,375 main Binary Search Tree Method - Array created from iterating through the Binary Tree
+FILE [INFO ] 2022-02-05 17:07:07,379 main Binary Search Tree Method - It took a total of 5375 milliseconds to run the brinary search tree sort method
+FILE [INFO ] 2022-02-05 17:07:07,391 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:07:07,391 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:07:07,391 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-05 17:11:13,834 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:11:13,842 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:11:13,842 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-05 17:11:13,862 main Bubble Sort Method - It took a total of 0 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 17:11:14,150 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:11:14,150 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:11:14,150 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-05 17:11:59,488 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:11:59,492 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:11:59,496 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-05 17:11:59,500 main Bubble Sort Method - It took a total of 0 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 17:11:59,697 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:11:59,697 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:11:59,697 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-05 17:13:03,306 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:13:03,310 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:13:03,310 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-05 17:13:03,318 main Bubble Sort Method - It took a total of 0 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 17:13:03,350 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:13:03,350 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:13:03,350 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-05 17:13:03,606 main Bubble Sort Method - It took a total of 257257 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 17:13:03,614 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:13:03,614 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:13:03,614 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-05 17:13:03,614 main Bubble Sort Method - It took a total of 88 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 17:13:27,504 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:13:27,508 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:13:27,508 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-05 17:13:27,512 main Binary Search Tree Method - Binary Tree instance created || Array sorted in the Binary Tree
+FILE [INFO ] 2022-02-05 17:13:27,512 main Binary Search Tree Method - Array created from iterating through the Binary Tree
+FILE [INFO ] 2022-02-05 17:13:27,516 main Binary Search Tree Method - It took a total of 2068 milliseconds to run the brinary search tree sort method
+FILE [INFO ] 2022-02-05 17:13:27,544 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:13:27,544 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:13:27,544 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-05 17:13:27,544 main Binary Search Tree Method - Binary Tree instance created || Array sorted in the Binary Tree
+FILE [INFO ] 2022-02-05 17:13:27,544 main Binary Search Tree Method - Array created from iterating through the Binary Tree
+FILE [INFO ] 2022-02-05 17:13:27,544 main Binary Search Tree Method - It took a total of 221 milliseconds to run the brinary search tree sort method
+FILE [INFO ] 2022-02-05 17:13:27,548 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:13:27,548 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:13:27,548 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-05 17:14:57,399 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:14:57,403 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:14:57,407 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-05 17:14:57,407 main Binary Search Tree Method - Binary Tree instance created || Array sorted in the Binary Tree
+FILE [INFO ] 2022-02-05 17:14:57,407 main Binary Search Tree Method - Array created from iterating through the Binary Tree
+FILE [INFO ] 2022-02-05 17:14:57,415 main Binary Search Tree Method - It took a total of 2118 milliseconds to run the brinary search tree sort method
+FILE [INFO ] 2022-02-05 17:14:57,442 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:14:57,442 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:14:57,442 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-05 17:14:57,442 main Binary Search Tree Method - Binary Tree instance created || Array sorted in the Binary Tree
+FILE [INFO ] 2022-02-05 17:14:57,442 main Binary Search Tree Method - Array created from iterating through the Binary Tree
+FILE [INFO ] 2022-02-05 17:14:57,442 main Binary Search Tree Method - It took a total of 205 milliseconds to run the brinary search tree sort method
+FILE [INFO ] 2022-02-05 17:14:57,446 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:14:57,446 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:14:57,446 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-05 17:15:06,231 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:15:06,239 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:15:06,239 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-05 17:15:06,247 main Merge Sort Method - It took a total of 130 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 17:15:06,271 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:15:06,271 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:15:06,271 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-05 17:15:06,279 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:15:06,279 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:15:06,279 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-05 17:15:06,279 main Merge Sort Method - It took a total of 11 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 17:16:55,842 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:16:55,846 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:16:55,850 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-05 17:16:55,854 main Merge Sort Method - It took a total of 38 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 17:16:55,878 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:16:55,878 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:16:55,878 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-05 17:16:55,882 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:16:55,882 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:16:55,882 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-05 17:16:55,882 main Merge Sort Method - It took a total of 16 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 17:17:53,084 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:17:53,088 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:17:53,092 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-05 17:17:53,096 main Merge Sort Method - It took a total of 33 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 17:17:53,116 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:17:53,116 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:17:53,116 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-05 17:17:53,120 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:17:53,120 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:17:53,120 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-05 17:17:53,120 main Merge Sort Method - It took a total of 6 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 17:20:26,250 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:20:26,252 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:20:26,253 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-05 17:20:26,257 main Bubble Sort Method - It took a total of 0 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 17:20:26,275 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:20:26,275 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:20:26,275 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-05 17:20:26,421 main Bubble Sort Method - It took a total of 145375 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 17:20:26,424 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:20:26,424 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:20:26,424 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-05 17:20:26,424 main Bubble Sort Method - It took a total of 0 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 17:20:59,038 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:20:59,041 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:20:59,042 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-05 17:20:59,044 main Binary Search Tree Method - Binary Tree instance created || Array sorted in the Binary Tree
+FILE [INFO ] 2022-02-05 17:20:59,044 main Binary Search Tree Method - Array created from iterating through the Binary Tree
+FILE [INFO ] 2022-02-05 17:20:59,047 main Binary Search Tree Method - It took a total of 1225 milliseconds to run the brinary search tree sort method
+FILE [INFO ] 2022-02-05 17:20:59,062 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:20:59,062 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:20:59,062 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-05 17:20:59,062 main Binary Search Tree Method - Binary Tree instance created || Array sorted in the Binary Tree
+FILE [INFO ] 2022-02-05 17:20:59,062 main Binary Search Tree Method - Array created from iterating through the Binary Tree
+FILE [INFO ] 2022-02-05 17:20:59,062 main Binary Search Tree Method - It took a total of 118 milliseconds to run the brinary search tree sort method
+FILE [INFO ] 2022-02-05 17:20:59,064 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 17:20:59,065 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:20:59,065 main BST Factory - BST Sort - getInstance

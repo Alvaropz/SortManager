@@ -2,7 +2,6 @@ package com.spartaglobal.sortManager.view;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -30,11 +29,11 @@ public class DisplayManager {
         String input = "";
         int length = 0;
         while (input instanceof String) {
-            System.out.print("Please, choose the length of your array: ");
+            System.out.print("Please, choose the length of your array (0 - 1000000): ");
             input = scanner.next();
             try {
                 length = Integer.parseInt(input);
-                if (length >= 0) {
+                if (length >= 0 && length <= 1000000) {
                     break;
                 }
             }  catch (NumberFormatException e){

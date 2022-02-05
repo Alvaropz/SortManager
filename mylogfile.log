@@ -234,3 +234,195 @@ FILE [INFO ] 2022-02-04 20:14:26,978 main Controller Logger - Random integers' a
 FILE [INFO ] 2022-02-04 20:14:26,979 main Merge Sort Method - It took a total of 29 milliseconds to run the merge sort method
 FILE [INFO ] 2022-02-04 20:14:26,979 main Viewer Logger - Display Results
 FILE [INFO ] 2022-02-04 20:14:26,979 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 20:23:07,594 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-04 20:23:09,228 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 20:23:09,228 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 20:23:09,228 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-04 20:23:09,229 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 20:23:09,230 main Bubble Sort Method - It took a total of 3 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 20:23:09,230 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 20:23:09,230 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 20:23:09,230 main Controller Logger - Call getSort Reference
+FILE [ERROR] 2022-02-04 20:23:09,231 main Controller Logger - Invalid input - SortFactory Object will be null
+FILE [INFO ] 2022-02-04 21:27:35,340 main MainSort - Main method called
+FILE [INFO ] 2022-02-04 21:27:35,345 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 21:28:03,848 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-04 21:28:17,269 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 21:28:17,269 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 21:28:17,270 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-04 21:28:17,272 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 21:28:17,276 main Merge Sort Method - It took a total of 72 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 21:28:17,277 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 21:32:10,506 main MainSort - Main method called
+FILE [INFO ] 2022-02-04 21:32:10,516 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 21:32:23,448 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-04 21:32:25,695 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 21:32:25,695 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 21:32:25,697 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-04 21:32:25,708 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 21:32:25,716 main Bubble Sort Method - It took a total of 5 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 21:32:25,717 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 21:32:25,717 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 21:32:27,796 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-04 21:32:29,425 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 21:32:29,425 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 21:32:29,425 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-04 21:32:29,430 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 21:32:29,431 main Merge Sort Method - It took a total of 22 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-04 21:32:29,431 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-04 21:32:29,431 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 21:32:31,299 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-04 21:32:33,115 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-04 21:32:33,115 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-04 21:32:33,116 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-04 21:32:33,123 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-04 21:32:33,136 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-05 11:17:35,873 main MainSort - Main method called
+FILE [INFO ] 2022-02-05 11:17:35,889 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 11:17:44,442 main Viewer Logger - Array length method input call
+FILE [WARN ] 2022-02-05 11:17:48,686 main Viewer Logger - java.lang.NumberFormatException: For input string: "10000000000"
+FILE [INFO ] 2022-02-05 11:17:56,235 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 11:17:56,235 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 11:17:56,235 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-05 11:17:56,286 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-05 11:35:25,449 main MainSort - Main method called
+FILE [INFO ] 2022-02-05 11:35:25,453 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 11:35:27,048 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-05 11:35:40,610 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 11:35:40,610 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 11:35:40,610 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-05 11:35:40,626 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-05 11:35:40,702 main Merge Sort Method - It took a total of 66649 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 11:35:40,702 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-05 11:35:40,730 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 11:35:43,544 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-05 11:35:53,154 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 11:35:53,154 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 11:35:53,158 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-05 11:35:53,190 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-05 11:35:53,370 main Merge Sort Method - It took a total of 179809 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 11:35:53,370 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-05 11:35:53,438 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 11:35:55,794 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-05 11:36:05,836 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 11:36:05,836 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 11:36:05,836 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-05 11:36:05,872 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-05 11:42:56,015 main MainSort - Main method called
+FILE [INFO ] 2022-02-05 11:42:56,027 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 11:43:10,862 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-05 11:43:16,172 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 11:43:16,172 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 11:43:16,172 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-05 11:43:19,339 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-05 11:44:31,759 main MainSort - Main method called
+FILE [INFO ] 2022-02-05 11:44:31,763 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 11:44:33,464 main Viewer Logger - Array length method input call
+FILE [WARN ] 2022-02-05 11:44:36,508 main Viewer Logger - java.lang.NumberFormatException: For input string: "10000000000"
+FILE [INFO ] 2022-02-05 11:44:40,426 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 11:44:40,426 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 11:44:40,427 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-05 11:45:01,933 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-05 11:48:08,368 main MainSort - Main method called
+FILE [INFO ] 2022-02-05 11:48:08,379 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 11:48:09,743 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-05 11:48:12,912 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 11:48:12,912 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 11:48:12,913 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-05 11:48:34,147 main Controller Logger - Random integers' array created successfully
+FILE [ERROR] 2022-02-05 11:48:34,180 main Merge Sort Method - java.lang.OutOfMemoryError: Java heap space
+FILE [INFO ] 2022-02-05 11:48:34,181 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-05 11:48:34,181 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:04:17,264 main MainSort - Main method called
+FILE [INFO ] 2022-02-05 12:04:17,268 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:04:20,167 main Viewer Logger - Array length method input call
+FILE [WARN ] 2022-02-05 12:04:28,102 main Viewer Logger - java.lang.NumberFormatException: For input string: "exit"
+FILE [INFO ] 2022-02-05 12:04:31,604 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:04:31,604 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 12:04:31,605 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-05 12:04:31,611 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-05 12:04:31,615 main Bubble Sort Method - It took a total of 0 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 12:04:31,615 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-05 12:04:31,615 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:04:40,599 main MainSort - Main method called
+FILE [INFO ] 2022-02-05 12:04:40,604 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:04:42,145 main Viewer Logger - Array length method input call
+FILE [WARN ] 2022-02-05 12:04:46,409 main Viewer Logger - java.lang.NumberFormatException: For input string: "100000000000"
+FILE [INFO ] 2022-02-05 12:04:50,881 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:04:50,881 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 12:04:50,882 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-05 12:05:16,942 main Controller Logger - Random integers' array created successfully
+FILE [ERROR] 2022-02-05 12:05:16,985 main Merge Sort Method - java.lang.OutOfMemoryError: Java heap space
+FILE [INFO ] 2022-02-05 12:05:16,985 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-05 12:05:16,985 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:05:36,638 main MainSort - Main method called
+FILE [INFO ] 2022-02-05 12:05:36,643 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:05:38,981 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-05 12:05:40,104 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:05:40,104 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 12:05:40,106 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-05 12:05:40,107 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-05 12:05:40,111 main Bubble Sort Method - It took a total of 4 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 12:05:40,111 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-05 12:05:40,111 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:05:42,436 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-05 12:05:44,946 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:05:44,946 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 12:05:44,946 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-05 12:06:10,043 main Controller Logger - Random integers' array created successfully
+FILE [ERROR] 2022-02-05 12:06:10,084 main Merge Sort Method - java.lang.OutOfMemoryError: Java heap space
+FILE [INFO ] 2022-02-05 12:06:10,085 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-05 12:06:10,085 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:07:55,453 main MainSort - Main method called
+FILE [INFO ] 2022-02-05 12:07:55,457 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:07:57,844 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-05 12:08:00,805 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:08:00,805 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 12:08:00,806 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-05 12:08:26,364 main Controller Logger - Random integers' array created successfully
+FILE [ERROR] 2022-02-05 12:08:26,415 main Merge Sort Method - java.lang.OutOfMemoryError: Java heap space
+FILE [INFO ] 2022-02-05 12:08:26,416 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-05 12:08:26,416 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:17:13,571 main MainSort - Main method called
+FILE [INFO ] 2022-02-05 12:17:13,582 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:17:18,308 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-05 12:17:28,049 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:17:28,049 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 12:17:28,050 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-05 12:17:28,089 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-05 12:17:28,351 main Merge Sort Method - It took a total of 258707 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 12:17:28,351 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-05 12:17:28,484 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:17:48,091 main MainSort - Main method called
+FILE [INFO ] 2022-02-05 12:17:48,109 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:17:49,780 main Viewer Logger - Array length method input call
+FILE [WARN ] 2022-02-05 12:17:53,370 main Viewer Logger - java.lang.NumberFormatException: For input string: "10000000000"
+FILE [INFO ] 2022-02-05 12:17:56,931 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 12:17:56,931 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 12:17:56,931 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-05 12:18:21,835 main Controller Logger - Random integers' array created successfully
+FILE [ERROR] 2022-02-05 12:18:21,874 main Merge Sort Method - java.lang.OutOfMemoryError: Java heap space
+FILE [INFO ] 2022-02-05 12:18:21,874 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-05 12:18:21,875 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 17:04:47,096 main MainSort - Main method called
+FILE [INFO ] 2022-02-05 17:04:47,108 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 17:04:50,179 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-05 17:04:56,956 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 17:04:56,956 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:04:56,956 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-05 17:04:57,000 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-05 17:04:57,068 main Binary Search Tree Method - Binary Tree instance created || Array sorted in the Binary Tree
+FILE [INFO ] 2022-02-05 17:04:57,068 main Binary Search Tree Method - Array created from iterating through the Binary Tree
+FILE [INFO ] 2022-02-05 17:04:57,068 main Binary Search Tree Method - It took a total of 68434 milliseconds to run the brinary search tree sort method
+FILE [INFO ] 2022-02-05 17:04:57,072 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-05 17:04:57,072 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 17:05:27,529 main MainSort - Main method called
+FILE [INFO ] 2022-02-05 17:05:27,533 main Viewer Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 17:05:29,842 main Viewer Logger - Array length method input call
+FILE [INFO ] 2022-02-05 17:05:38,829 main Controller Logger - Desired sorted method input call
+FILE [INFO ] 2022-02-05 17:05:38,829 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 17:05:38,829 main Merge Factory - Merge Sort - getInstance
+FILE [INFO ] 2022-02-05 17:05:38,873 main Controller Logger - Random integers' array created successfully
+FILE [INFO ] 2022-02-05 17:05:39,145 main Merge Sort Method - It took a total of 264572 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 17:05:39,145 main Viewer Logger - Display Results
+FILE [INFO ] 2022-02-05 17:05:39,261 main Viewer Logger - Desired sorted method input call

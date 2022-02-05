@@ -31,7 +31,7 @@ public class SortManager {
     public static Sort getSort(String sortType) {
         logger.info("Call getSort Reference");
 
-        SortFactory sf;
+        SortFactory sf = null;
         if ("b".equals(sortType)) {
             sf = new BubbleFactory();
         } else if ("m".equals(sortType)) {
@@ -40,7 +40,6 @@ public class SortManager {
             sf = new BSTFactory();
         } else {
             logger.error("Invalid input - SortFactory Object will be null");
-            sf = null;
             System.exit(1);
         }
 

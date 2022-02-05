@@ -34,8 +34,20 @@ This project will use the Bubble and Merge Sort logic to sort an array of 40 ran
 
 ## Test Coverage:
 
+This test coverage includes the running of the three sorting methods (Bubble, Merge and BST):
 ![CoverageReport](https://user-images.githubusercontent.com/63067669/152597668-bec3de53-f6c4-4ce3-855d-e53c14e7dc17.png)
 
+Three unit tests have been used for to test this project. The same three cases have been applied for the three methods which includes:
+   * Sort an array of unsorted integers.
+   * Zero elements in the array which returns an empty array.
+   * Same value for all integers in the array. For the Bubble and Merge sorting method, return the same array. For the BST, it returns a one element array.
+
+
+| Test Type          | Test Results |
+|--------------------|:------------:|
+| Bubble             |        ![BubbleSortTester](https://user-images.githubusercontent.com/63067669/152651952-9f591083-d611-4410-b1fb-4a5b9dc1179a.png)      |
+| Merge              |   ![MergeSortTester](https://user-images.githubusercontent.com/63067669/152651950-e104fa41-6f5d-4aeb-a749-fdcf2a152480.png)    |
+| Binary Tree Search |     ![BSTTester](https://user-images.githubusercontent.com/63067669/152651951-74f1e59d-d3dd-42bf-9b75-8f20501a5475.png)  |
 
 ## Technologies:
 

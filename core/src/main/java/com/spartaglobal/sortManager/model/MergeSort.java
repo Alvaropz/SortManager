@@ -11,29 +11,33 @@ public class MergeSort implements Sort{
     // Main logic provided by https://www.baeldung.com/java-merge-sort
     @Override
     public int[] sort(int[] arr) {
+        try {
+            long start = System.nanoTime();
 
-        long start = System.nanoTime();
+            if (arr.length < 2) {
+                return arr;
+            }
+            int mid = arr.length / 2;
+            int[] l = new int[mid];
+            int[] r = new int[arr.length - mid];
 
-        if (arr.length < 2) {
+            for (int i = 0; i < mid; i++) {
+                l[i] = arr[i];
+            }
+            for (int i = mid; i < arr.length; i++) {
+                r[i - mid] = arr[i];
+            }
+            sort(l, mid);
+            sort(r, arr.length - mid);
+
+            merge(arr, l, r, mid, arr.length - mid);
+            long end = System.nanoTime();
+            logger.info("It took a total of " + (TimeUnit.MICROSECONDS.convert(end-start, TimeUnit.NANOSECONDS)) + " milliseconds to run the merge sort method");
             return arr;
+        } catch (OutOfMemoryError e) {
+            logger.error(e);
+            return new int[0];
         }
-        int mid = arr.length / 2;
-        int[] l = new int[mid];
-        int[] r = new int[arr.length - mid];
-
-        for (int i = 0; i < mid; i++) {
-            l[i] = arr[i];
-        }
-        for (int i = mid; i < arr.length; i++) {
-            r[i - mid] = arr[i];
-        }
-        sort(l, mid);
-        sort(r, arr.length - mid);
-
-        merge(arr, l, r, mid, arr.length - mid);
-        long end = System.nanoTime();
-        logger.info("It took a total of " + (TimeUnit.MICROSECONDS.convert(end-start, TimeUnit.NANOSECONDS)) + " milliseconds to run the merge sort method");
-        return arr;
     }
 
     public int[] sort(int[] arr, int n) {
@@ -57,8 +61,7 @@ public class MergeSort implements Sort{
         return arr;
     }
 
-    public static void merge(
-            int[] a, int[] l, int[] r, int left, int right) {
+    public static void merge(int[] a, int[] l, int[] r, int left, int right) {
 
         int i = 0, j = 0, k = 0;
         while (i < left && j < right) {

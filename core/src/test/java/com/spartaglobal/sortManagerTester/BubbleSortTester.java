@@ -8,6 +8,7 @@ import java.util.Arrays;
 public class BubbleSortTester {
 
     private SortManager controller;
+    private String bubble = "b";
     @BeforeEach
     public void setUp() {
         controller = new SortManager();
@@ -22,13 +23,12 @@ public class BubbleSortTester {
     @Test
     @DisplayName("This checks if an array is sorted via the Bubble Sort method")
     public void testBubbleSort(){
-        int[] inputArray = new int[40];
+        int[] inputArray = new int[10000];
         for (int i = 0; i < inputArray.length; i++) {
             inputArray[i] = (int)Math.floor((Math.random()*100)+1);
         }
         int[] inputArrayCopy = copyArray(inputArray);
-
-        int[] result = controller.sortArray("b", inputArray);
+        int[] result = controller.sortArray(bubble, inputArray);
         String expected = Arrays.toString(result);
         String actual = Arrays.toString(inputArrayCopy);
         Assertions.assertEquals(expected, actual);
@@ -40,8 +40,7 @@ public class BubbleSortTester {
     public void testBubbleSortEmptyArray(){
         int[] inputArray = new int[]{};
         int[] inputArrayCopy = copyArray(inputArray);
-
-        int[] result = controller.sortArray("b", inputArray);
+        int[] result = controller.sortArray(bubble, inputArray);
         String expected = Arrays.toString(result);
         String actual = Arrays.toString(inputArrayCopy);
         Assertions.assertEquals(expected, actual);
@@ -52,8 +51,7 @@ public class BubbleSortTester {
     public void tesBubbleSortSameValue(){
         int[] inputArray = new int[]{0, 0, 0, 0, 0};
         int[] inputArrayCopy = copyArray(inputArray);
-
-        int[] result = controller.sortArray("b", inputArray);
+        int[] result = controller.sortArray(bubble, inputArray);
         String expected = Arrays.toString(result);
         String actual = Arrays.toString(inputArrayCopy);
         Assertions.assertEquals(expected, actual);
