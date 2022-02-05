@@ -9,7 +9,7 @@
 * [Setup](#setup)
 
 ## General Info:
-This project will use the Bubble and Merge Sort logic to sort an array of 40 random integers. This array can contain duplicates.
+This project will use the 'Bubble and Merge' sort logic to sort an array of 40 random integers. This array may contain duplicates.
 1. Phase One:
    * Write a program that will take an array of `ints` and sort it using a **bubble** sort algorithm and then a **merge** sort algorithm.
    * Include **JUnit** tests for this and all subsequent phases. Code passing tests in phase 1? &#9745;
@@ -18,7 +18,7 @@ This project will use the Bubble and Merge Sort logic to sort an array of 40 ran
 3. Phase Three:
    * Project updated to track and log classes and methods.
 4. Phase Four:
-   * Integrates a Binary Search Tree class that sorts elements form an unsorted list into the tree. Then, it retrieves an array of that Binary Tree sorted. Code passing tests in phase 4? &#9745;
+   * Integrates a Binary Search Tree class that sorts elements from an unsorted list into the tree. Then, it retrieves an array of that Binary Tree sorted. Code passing tests in phase 4? &#9745;
 6. Phase Five:
    * Timing information added. This allows to compare algorithms performance.
 
@@ -37,7 +37,7 @@ This project will use the Bubble and Merge Sort logic to sort an array of 40 ran
 This test coverage includes the running of the three sorting methods (Bubble, Merge and BST):
 ![CoverageReport](https://user-images.githubusercontent.com/63067669/152597668-bec3de53-f6c4-4ce3-855d-e53c14e7dc17.png)
 
-Three unit tests have been used for to test this project. The same three cases have been applied for the three methods which includes:
+Three unit tests have been used to test this project. The same three cases have been applied for the three methods which includes:
    * Sort an array of unsorted integers.
    * Zero elements in the array which returns an empty array.
    * Same value for all integers in the array. For the Bubble and Merge sorting method, return the same array. For the BST, it returns a one element array.
@@ -49,14 +49,14 @@ Three unit tests have been used for to test this project. The same three cases h
 | Merge              |   ![MergeSortTester](https://user-images.githubusercontent.com/63067669/152651950-e104fa41-6f5d-4aeb-a749-fdcf2a152480.png)    |
 | Binary Tree Search |     ![BSTTester](https://user-images.githubusercontent.com/63067669/152651951-74f1e59d-d3dd-42bf-9b75-8f20501a5475.png)  |
 
-   * For the view class. There has been performed a manual test:
+   * For the view class. A manual test has been performed:
      * This includes other inputs than "b", "m" and "t" for the _getDesiredType()_ function.
      * This includes negative numbers and large numbers for the _getArrayLength()_ function.
      * This includes the right _output printed_ on the terminal.
 
 ## Technologies:
 
-Project is created with:
+Project created with:
 * IntelliJ IDEA 2021.3.1
 * junit-jupiter:5.8.2
 * apache.logging.log4j:2.17.1
