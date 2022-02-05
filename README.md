@@ -49,6 +49,11 @@ Three unit tests have been used for to test this project. The same three cases h
 | Merge              |   ![MergeSortTester](https://user-images.githubusercontent.com/63067669/152651950-e104fa41-6f5d-4aeb-a749-fdcf2a152480.png)    |
 | Binary Tree Search |     ![BSTTester](https://user-images.githubusercontent.com/63067669/152651951-74f1e59d-d3dd-42bf-9b75-8f20501a5475.png)  |
 
+   * For the view class. There has been performed a manual test:
+     * This includes other inputs than "b", "m" and "t" for the _getDesiredType()_ function.
+     * This includes negative numbers and large numbers for the _getArrayLength()_ function.
+     * This includes the right _output printed_ on the terminal.
+
 ## Technologies:
 
 Project is created with:
