@@ -129,3 +129,16 @@ FILE [INFO ] 2022-02-05 17:20:59,062 main Binary Search Tree Method - It took a 
 FILE [INFO ] 2022-02-05 17:20:59,064 main Controller Logger - Call Sort Array Function
 FILE [INFO ] 2022-02-05 17:20:59,065 main Controller Logger - Call getSort Reference
 FILE [INFO ] 2022-02-05 17:20:59,065 main BST Factory - BST Sort - getInstance
+FILE [INFO ] 2022-02-05 19:32:22,980 main Bubble Sort Method - It took a total of 149875 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 20:06:41,874 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 20:06:41,877 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 20:06:41,877 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-05 20:06:41,881 main Bubble Sort Method - It took a total of 0 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 20:06:41,899 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 20:06:41,900 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 20:06:41,900 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-05 20:06:42,023 main Bubble Sort Method - It took a total of 123534 milliseconds to run the merge sort method
+FILE [INFO ] 2022-02-05 20:06:42,026 main Controller Logger - Call Sort Array Function
+FILE [INFO ] 2022-02-05 20:06:42,026 main Controller Logger - Call getSort Reference
+FILE [INFO ] 2022-02-05 20:06:42,027 main Bubble Factory - Bubble Sort - getInstance
+FILE [INFO ] 2022-02-05 20:06:42,027 main Bubble Sort Method - It took a total of 43 milliseconds to run the merge sort method

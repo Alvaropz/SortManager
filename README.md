@@ -7,6 +7,7 @@
 * [Use](#use)
 * [Technologies](#techonologies)
 * [Setup](#setup)
+* [Credits](#credits)
 
 ## General Info:
 This project will use the 'Bubble and Merge' sort logic to sort an array of 40 random integers. This array may contain duplicates.
@@ -69,3 +70,8 @@ Project created with:
 * [junit-jupiter:5.8.2](https://junit.org/junit5/docs/current/user-guide/)
 * [GitHub Desktop](https://desktop.github.com)
 
+## Credits:
+
+* Bubble Sort: Explanation provided by [geeksforgeeks](https://www.geeksforgeeks.org/bubble-sort/).
+* Merge Sort: Explanation provided by [baeldung](https://www.baeldung.com/java-merge-sort).
+* Binary Search Tree: Explanation provided by [baeldung](https://www.baeldung.com/java-binary-tree).

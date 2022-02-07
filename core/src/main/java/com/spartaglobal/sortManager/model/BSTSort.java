@@ -6,7 +6,6 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.concurrent.TimeUnit;
 
-// Main logic provided by https://www.baeldung.com/java-binary-tree;
 public class BSTSort implements Sort {
 
     private static Logger logger = LogManager.getLogger("Binary Search Tree Method");

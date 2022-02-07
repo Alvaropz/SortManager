@@ -9,7 +9,6 @@ public class BubbleSort implements Sort {
 
     private static Logger logger = LogManager.getLogger("Bubble Sort Method");
 
-    // Main logic provided by https://www.geeksforgeeks.org/bubble-sort/
     @Override
     public int[] sort(int[] arr) {
         try {
